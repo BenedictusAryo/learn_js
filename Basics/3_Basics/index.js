@@ -20,3 +20,9 @@ let isApproved = false; // Boolean Literal
 let firstName; 
 let firsName = undefined;
 let selectedColor = null;
+
+console.log(typeof nickName);
+console.log(typeof age);
+console.log(typeof isApproved);
+console.log(typeof firsName);
+console.log(typeof selectedColor);
